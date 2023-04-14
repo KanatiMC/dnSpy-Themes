@@ -1,4 +1,4 @@
-<theme guid="e1178ad9-1746-48a3-b7a1-875ce33afdff" name="kanati_(vice)" menu-name="Vice Theme" order="9001" is-dark="True" is-high-contrast="False">
+<theme guid="e1178ad9-1746-48a3-b7a1-875ce33afdff" name="Vice by Kanati" menu-name="Vice Theme" order="9001" is-dark="True" is-high-contrast="False">
     <colors>
         <color name="defaulttext" fg="#00eaff" bg="#181818" />
         <color name="operator" fg="#ff29a8" />
