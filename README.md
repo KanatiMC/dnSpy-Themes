@@ -38,7 +38,15 @@
 
 [Night Owl](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Night_Owl.dntheme)
 
-[Catppuccin Macchiato](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Catppuccin_Macchiato.dntheme)
+[Catppuccin Macchiato (1)](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Catppuccin_Macchiato.dntheme)
+
+[Catppuccin Macchiato (2)](https://github.com/KanatiMC/dnSpy-Themes/blob/main/macchiato.dntheme)
+
+[Catppuccin Mocha](https://github.com/KanatiMC/dnSpy-Themes/blob/main/mocha.dntheme)
+
+[Catppuccin Latte](https://github.com/KanatiMC/dnSpy-Themes/blob/main/latte.dntheme)
+
+[Catppuccin Frappe](https://github.com/KanatiMC/dnSpy-Themes/blob/main/frappe.dntheme)
 
 [Light Owl](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Light%20Owl.dntheme)
 
