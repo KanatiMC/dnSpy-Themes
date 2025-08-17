@@ -1,4 +1,4 @@
-<theme guid="dd689b12-3c69-4054-aa57-fdf4c60ac96f" name="Catppuccin Macchiato" menu-name="Catppuccin Macchiato" order="6969" is-dark="true" is-high-contrast="false">
+<theme guid="dd689b12-3c69-4054-aa57-fdf4c60ac96f" name="Catppuccin Macchiato 1" menu-name="Catppuccin Macchiato 1" order="6969" is-dark="true" is-high-contrast="false">
 	<colors>
 		<color name="defaulttext" fg="#cad3f5" bg="#1e2030" />
 		<color name="operator" fg="#cad3f5" />
@@ -756,3 +756,4 @@
 		<color name="infobarclosebuttonhover" bg="#FF000000" />
 	</colors>
 </theme>
+
