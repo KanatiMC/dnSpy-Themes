@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Download theme you want and drop it in dnSpy/bin/Themes
+1. Download theme you want and drop it in `dnSpy/bin/Themes`
 
 # Theme List
 
