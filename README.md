@@ -30,7 +30,7 @@
 
 [Material Sandy Beach](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Material%20Sandy%20Beach.dntheme)
 
-[Material Sky Blue]([https://github.com/KanatiMC/dnSpy-Themes/blob/main/Catppuccin_Macchiato.dntheme](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Material%20Sky%20Blue.dntheme))
+[Material Sky Blue](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Material%20Sky%20Blue.dntheme)
 
 [Monokai Pro](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Monokai_Pro.dntheme)
 
