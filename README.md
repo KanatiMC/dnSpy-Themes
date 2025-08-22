@@ -20,6 +20,8 @@
 
 [Github Dark](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Github_Dark.dntheme)
 
+[Gruvbox Material](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Gruvbox_Material.dntheme)
+
 [Material Darker](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Material_Oceanic.dntheme)
 
 [Material Oceanic](https://github.com/KanatiMC/dnSpy-Themes/blob/main/Material_Oceanic.dntheme)
